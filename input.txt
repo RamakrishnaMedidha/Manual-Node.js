@@ -1,0 +1,2 @@
+Este es un texto que será leido por Node.js, se encuentra en el archivo input.txt
+Santorcuato 2017.

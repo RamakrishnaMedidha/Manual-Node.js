@@ -1,0 +1,2 @@
+Este es un texto que será leido por Node.js, se encuentra en el archivo web.txt, sirve leer el contenido de un txt.
+Santorcuato 2017.
