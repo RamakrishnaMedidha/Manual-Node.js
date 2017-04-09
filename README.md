@@ -3,6 +3,6 @@ JOSÉ SANTORCUATO TAPIA
 SANTORCUATO76@GMAIL.COM
 CHILE 2017
 
-Manual con ejercicios práticos y modificaciones a tutorial de Tutorials Point:
+Manual con ejercicios prácticos y modificaciones a tutorial de Tutorials Point:
 
 https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf
