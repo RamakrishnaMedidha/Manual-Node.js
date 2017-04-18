@@ -1,0 +1,21 @@
+  /* Instalacion npm */
+
+npm --version
+
+sudo npm install npm -g
+
+npm ls -g //paquetes npm
+
+npm install json -g
+
+npm install express -g
+
+npm install events -g
+
+npm uninstall express// desintala paquete
+
+npm update express //actualiza
+
+npm search express //busca paquete
+
+npm install request-ip -g
